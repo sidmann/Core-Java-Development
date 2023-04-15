@@ -1,0 +1,30 @@
+app1	:	Hello world dev, local variables, unary operators
+app2	:	Boolean operators
+app3	:	if blocks, if blocks with unary operators
+app4	:	nested if blocks
+app5	:	else blocks
+app6	:	if-else blocks inside if block
+app7	:	if-else blocks inside else block, if-else blocks with unary operators
+app8	:	command line arguments, ternary operator
+app9	:	switch-cases
+app10	:	for-loop
+app11	:	while-loop
+app12	:	methods
+app13	:	attributes
+app14	:	initializers & static initialization block (S.I.B) & illegal forward reference (I.F.R)
+--------------------------------------------------------------------------------------------------
+Non-static
+app15 :    object and reference variable
+app16 :    constructors
+app17 :    instance initialization block (I.I.B)
+app18 :    encapsulation
+app19 :    exception handling
+app20 :    packages
+app21 :    assertions
+
+
+
+
+
+
+
